@@ -25,3 +25,14 @@ python main.py
 ```sh
 python main.py --test 
 ```
+
+## Citation
+If you find our work useful for your research, please kindly cite our paper as follows:
+```
+@article{zhao2022don,
+  title={Don't Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness},
+  author={Zhao, Weixiang and Zhao, Yanyan and Lu, Xin and Qin, Bing},
+  journal={arXiv preprint arXiv:2210.03884},
+  year={2022}
+}
+```
